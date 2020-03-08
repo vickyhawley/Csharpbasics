@@ -1,0 +1,10 @@
+/Users/Fikile/Desktop/C# Practice/BoolVal/obj/Debug/netcoreapp3.1/BoolVal.csprojAssemblyReference.cache
+/Users/Fikile/Desktop/C# Practice/BoolVal/obj/Debug/netcoreapp3.1/BoolVal.AssemblyInfoInputs.cache
+/Users/Fikile/Desktop/C# Practice/BoolVal/obj/Debug/netcoreapp3.1/BoolVal.AssemblyInfo.cs
+/Users/Fikile/Desktop/C# Practice/BoolVal/bin/Debug/netcoreapp3.1/BoolVal.deps.json
+/Users/Fikile/Desktop/C# Practice/BoolVal/bin/Debug/netcoreapp3.1/BoolVal.runtimeconfig.json
+/Users/Fikile/Desktop/C# Practice/BoolVal/bin/Debug/netcoreapp3.1/BoolVal.runtimeconfig.dev.json
+/Users/Fikile/Desktop/C# Practice/BoolVal/bin/Debug/netcoreapp3.1/BoolVal.dll
+/Users/Fikile/Desktop/C# Practice/BoolVal/bin/Debug/netcoreapp3.1/BoolVal.pdb
+/Users/Fikile/Desktop/C# Practice/BoolVal/obj/Debug/netcoreapp3.1/BoolVal.dll
+/Users/Fikile/Desktop/C# Practice/BoolVal/obj/Debug/netcoreapp3.1/BoolVal.pdb
