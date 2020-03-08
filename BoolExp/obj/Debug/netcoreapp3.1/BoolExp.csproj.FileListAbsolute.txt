@@ -1,0 +1,10 @@
+/Users/Fikile/Desktop/C# Practice/BoolExp/bin/Debug/netcoreapp3.1/BoolExp.deps.json
+/Users/Fikile/Desktop/C# Practice/BoolExp/bin/Debug/netcoreapp3.1/BoolExp.runtimeconfig.json
+/Users/Fikile/Desktop/C# Practice/BoolExp/bin/Debug/netcoreapp3.1/BoolExp.runtimeconfig.dev.json
+/Users/Fikile/Desktop/C# Practice/BoolExp/bin/Debug/netcoreapp3.1/BoolExp.dll
+/Users/Fikile/Desktop/C# Practice/BoolExp/bin/Debug/netcoreapp3.1/BoolExp.pdb
+/Users/Fikile/Desktop/C# Practice/BoolExp/obj/Debug/netcoreapp3.1/BoolExp.csprojAssemblyReference.cache
+/Users/Fikile/Desktop/C# Practice/BoolExp/obj/Debug/netcoreapp3.1/BoolExp.AssemblyInfoInputs.cache
+/Users/Fikile/Desktop/C# Practice/BoolExp/obj/Debug/netcoreapp3.1/BoolExp.AssemblyInfo.cs
+/Users/Fikile/Desktop/C# Practice/BoolExp/obj/Debug/netcoreapp3.1/BoolExp.dll
+/Users/Fikile/Desktop/C# Practice/BoolExp/obj/Debug/netcoreapp3.1/BoolExp.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Fikile/.dotnet/store/|arch|/|tfm|",
+      "/Users/Fikile/.nuget/packages"
+    ]
+  }
+}
